@@ -12,4 +12,6 @@
 
 ```bash
 cnpm install supervisor -g
+
+cnpm install express
 ```
