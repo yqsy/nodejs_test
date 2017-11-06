@@ -13,5 +13,9 @@
 ```bash
 cnpm install supervisor -g
 
+# 框架
 cnpm install express
+
+# 反向代理
+cnpm install http-proxy
 ```
